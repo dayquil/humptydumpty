@@ -1,0 +1,11 @@
+MS08-067
+MS08_068
+MS09_010
+MS09_044
+MS09_065
+MS12_020
+MS15_020
+
+
+
+https://technet.microsoft.com/en-us/security/bulletin/dn602597.aspx
