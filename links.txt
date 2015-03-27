@@ -1,0 +1,104 @@
+
+
+1) Windows Security Patches
+2) Windows Sysinternals Suite
+3) Windows Anti-virus: Kaspersky
+4) https://github.com/ccdcuser/FullHouse.git
+
+
+
+
+Windows: Security Patches
+    |
+    +-https://github.com/dayquil/humptydumpty
+    |
+    +-https://technet.microsoft.com/en-us/library/security/dn631937.aspx
+
+
+
+
+Windows: Sysintetrnals Suite
+     |
+     +-http://download.sysinternals.com/files/SysinternalsSuite.zip
+
+
+
+Windows: Anti-Virus
+     |
+     +-http://usa.kaspersky.com/files/?file=kav&lang=en&program=2013trial&track=trial_kav_usen_2013build
+     |
+     +-http://americas.kasperskylabs.com/HS?a=ENX7C64OXR3b8SA9MOApPJTnGHxKW_VNJvcStGb5lw8W0bBhOG5mpqVsje_HheH7H1Me
+
+
+
+Packet Capture
+     |
+     +-http://www.netresec.com/?download=RawCap
+     |
+     +-http://sourceforge.net/projects/splitcap/files/latest
+     |
+     +-https://2.na.dl.wireshark.org/win32/WiresharkPortable-1.12.4.paf.exe
+
+
+
+
+Linux: Anti-rootkits
+     |
+     +-http://sourceforge.net/projects/zeppoo/files/latest/download
+     |
+     +-http://sourceforge.net/projects/rkhunter/files/latest/download?source=files
+     |
+     +-ftp://ftp.pangeia.com.br/pub/seg/pac/chkrootkit.tar.gz
+
+
+
+Linux: Scripts
+     |
+     +-our github
+
+
+
+
+Forensics
+    |
+    +-http://www.moonsols.com/wp-content/plugins/download-monitor/download.php?id=7
+    |
+    +-http://download.sysinternals.com/files/SysinternalsSuite.zip
+    |
+    +-http://downloads.volatilityfoundation.org/releases/2.4/volatility_2.4.win.standalone.zip
+
+
+Live CD:
+    |
+    +-ChNTPasswd
+    |     |
+    |     +-http://pogostick.net/~pnh/ntpasswd/cd140201.zip
+    |     |
+    |     +-http://pogostick.net/~pnh/ntpasswd/usb140201.zip
+    |
+    |
+    +-Rufus: tool to make live usb's
+        |
+        +-http://downloads.akeo.ie/rufus/rufus-2.1p.exe
+
+
+
+
+
+Microsoft Service Packs:
+========================
+Windows XP SP 3 32bit
+http://www.microsoft.com/en-us/download/details.aspx?id=24
+
+Windows Server2008 SP2 
+http://support.microsoft.com/en-us/kb/968849
+
+
+
+Unhide:
+=======
+
+Unhide - Unhide tcp and udp ports for windows.
+http://sourceforge.net/projects/unhide/files/WinUnhide.zip/download
+
+
